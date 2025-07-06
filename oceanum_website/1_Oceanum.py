@@ -1,8 +1,8 @@
-import streamlit as st
+uimport streamlit as st
 import pandas as pd
 import time
 
-st.image("logo.png", caption=None, width=None, use_column_width=None)
+st.image("oceanum_website/logo.png", caption=None, width=None, use_column_width=None)
 st.markdown("# Welcome to Oceanum")
 st.text("We are working for a new and better webpage... ")
 
