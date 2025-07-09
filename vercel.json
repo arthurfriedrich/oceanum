@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://oceanum.streamlit.app/",
+      "permanent": true
+    }
+  ]
+}
